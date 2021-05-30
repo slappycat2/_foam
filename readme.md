@@ -7,6 +7,11 @@
 ## Getting started
 This is a fork of https://github.com/foambubble/foam. I am only using this to experiment with. This is not the real deal!
 
+--------------------------
+
+
+
+
 This documentation assumes that you have a GitHub account and have [Visual Studio Code](https://code.visualstudio.com/) installed on your Linux/MacOS/Windows machine.
 
 1. If you haven't yet, browse over to the main [Foam documentation](https://foambubble.github.io/foam) to get an idea of what Foam is and how to use it.
